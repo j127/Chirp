@@ -1,0 +1,23 @@
+{
+  "name": "chirp-app",
+  "version": "0.0.1",
+  "description": "A tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j127/Chirp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j127/Chirp/issues"
+  },
+  "homepage": "https://github.com/j127/Chirp#readme"
+}
