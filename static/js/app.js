@@ -14,7 +14,7 @@ app.controller('mainController', function ($scope) {
             user: '',
             text: '',
             createdAt: ''
-        }
-    }
+        };
+    };
 });
 
